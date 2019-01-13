@@ -1,6 +1,6 @@
 package main.scala
 
-object iteratorTest {
+object IteratorTest {
   def main(arg: Array[String]): Unit = {
     val it1 = Iterator(1, 9, 5, 6, 3, 2, 7, 8, 4, 4)
     //长度 size / length
